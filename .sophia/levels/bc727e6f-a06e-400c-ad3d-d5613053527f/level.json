@@ -1,0 +1,21 @@
+{
+  "description": "Just something fun to get the player hooked in",
+  "kind": "level",
+  "images": [],
+  "tiled": {
+    "attachedAt": "2026-04-24T07:50:26.445Z",
+    "sourceFileName": "gameart2d-desert.tmx",
+    "activeTilesetFirstgid": 1,
+    "spritesheetRef": {
+      "pluginId": "spritesheets",
+      "entityType": "spritesheet",
+      "entityId": "0acb76ab-d2f6-42cb-9600-9723d849fc63"
+    },
+    "embeddedSpritesheet": null,
+    "missingSpritesheet": false
+  },
+  "name": "Second Level",
+  "id": "bc727e6f-a06e-400c-ad3d-d5613053527f",
+  "createdAt": "2026-04-24T07:49:11.652Z",
+  "updatedAt": "2026-04-24T07:50:47.125Z"
+}

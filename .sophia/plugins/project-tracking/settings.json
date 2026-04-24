@@ -1,0 +1,16 @@
+{
+  "effortWeights": {
+    "trivial": 1,
+    "small": 8,
+    "medium": 24,
+    "large": 80
+  },
+  "statusCompletions": {
+    "backlog": 0,
+    "planned": 10,
+    "in_progress": 50,
+    "testing": 80,
+    "done": 100
+  },
+  "gamejamMode": true
+}

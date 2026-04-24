@@ -1,0 +1,17 @@
+{
+  "color": "#9C27B0",
+  "positionX": 100,
+  "positionY": 400,
+  "isInitial": true,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+  "name": "Intro",
+  "id": "7bf5c655-3140-45fc-a41a-c62ecb1cd424",
+  "createdAt": "2026-04-23T21:42:44.689Z",
+  "updatedAt": "2026-04-23T22:19:58.565Z"
+}

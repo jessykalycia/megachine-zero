@@ -1,0 +1,10 @@
+{
+  "name": "VFX",
+  "description": "Visual effects — impacts, explosions, particles",
+  "scopedEntityType": "spritesheet",
+  "icon": "sparkles",
+  "color": "#FF6B35",
+  "id": "2cc3ab48-f12b-4176-8c8c-ef8bb0648ed4",
+  "createdAt": "2026-04-23T18:33:54.364Z",
+  "updatedAt": "2026-04-23T18:33:54.364Z"
+}

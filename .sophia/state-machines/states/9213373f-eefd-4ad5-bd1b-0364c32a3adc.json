@@ -1,0 +1,17 @@
+{
+  "color": "#4A90E2",
+  "positionX": 1100,
+  "positionY": 400,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "name": "Run",
+  "id": "9213373f-eefd-4ad5-bd1b-0364c32a3adc",
+  "createdAt": "2026-04-23T21:42:44.491Z",
+  "updatedAt": "2026-04-23T22:19:58.491Z"
+}

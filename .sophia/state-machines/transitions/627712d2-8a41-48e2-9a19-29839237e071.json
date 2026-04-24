@@ -1,0 +1,15 @@
+{
+  "label": "Dash",
+  "condition": "dash_pressed",
+  "action": null,
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "sourceStateId": "dc04531d-35fe-43ef-8ac9-304d41d50b1b",
+  "targetStateId": "7868af9d-8a07-4579-9bdb-088d1b41e2dd",
+  "id": "627712d2-8a41-48e2-9a19-29839237e071",
+  "createdAt": "2026-04-23T21:44:33.610Z",
+  "updatedAt": "2026-04-23T21:44:33.610Z"
+}

@@ -1,0 +1,9 @@
+{
+  "order": 0,
+  "name": "Enemy Hit",
+  "description": "Enemy takes damage but survives",
+  "sfxGroupId": "5da2d1e0-3785-4351-ba42-5f278a3bf740",
+  "id": "8ed219d8-1fe9-4dbf-8fe2-3fee08e556dc",
+  "createdAt": "2026-04-23T18:27:38.696Z",
+  "updatedAt": "2026-04-23T18:27:38.696Z"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Player",
+  "description": "Player-controlled character",
+  "scopedEntityType": "character",
+  "icon": "user",
+  "color": "#4A90E2",
+  "id": "d0f6a839-75d6-4c55-b826-d6aac5732c8a",
+  "createdAt": "2026-04-23T21:50:03.013Z",
+  "updatedAt": "2026-04-23T21:50:03.013Z"
+}

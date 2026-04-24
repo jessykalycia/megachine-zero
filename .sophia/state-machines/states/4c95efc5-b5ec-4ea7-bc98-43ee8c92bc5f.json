@@ -1,0 +1,17 @@
+{
+  "color": "#FF6B35",
+  "positionX": 500,
+  "positionY": 400,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "name": "WallKick",
+  "id": "4c95efc5-b5ec-4ea7-bc98-43ee8c92bc5f",
+  "createdAt": "2026-04-23T21:42:44.521Z",
+  "updatedAt": "2026-04-23T22:19:58.526Z"
+}

@@ -1,0 +1,15 @@
+{
+  "label": "Stop",
+  "condition": "!horizontal_input",
+  "action": null,
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "sourceStateId": "9213373f-eefd-4ad5-bd1b-0364c32a3adc",
+  "targetStateId": "dc04531d-35fe-43ef-8ac9-304d41d50b1b",
+  "id": "e28da207-112b-4a39-a3dd-280a46427a30",
+  "createdAt": "2026-04-23T21:44:33.541Z",
+  "updatedAt": "2026-04-23T21:44:33.541Z"
+}

@@ -1,0 +1,12 @@
+{
+  "description": "Fixed position, detects player and fires aimed at player direction. Hit stun gated by 5s cooldown.",
+  "initialStateId": null,
+  "settings": {
+    "snapToGrid": true,
+    "gridSize": 20
+  },
+  "name": "Enemy 3 - Sentry FSM",
+  "id": "fd05f448-16b1-4d5d-a9be-e33f876e71d4",
+  "createdAt": "2026-04-23T21:42:14.565Z",
+  "updatedAt": "2026-04-23T21:42:14.565Z"
+}

@@ -1,0 +1,9 @@
+{
+  "order": 3,
+  "name": "Player Death",
+  "description": "Player death",
+  "sfxGroupId": "5da2d1e0-3785-4351-ba42-5f278a3bf740",
+  "id": "34ea6eb0-d777-4f37-a62f-90f4624d0f2d",
+  "createdAt": "2026-04-23T18:27:38.716Z",
+  "updatedAt": "2026-04-23T18:27:38.716Z"
+}

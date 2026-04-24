@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "player"
+  ],
+  "name": "Movement",
+  "description": "Player movement — jump, dash, wall-slide",
+  "id": "fe70655f-86c2-46dc-890d-63c851d370a3",
+  "createdAt": "2026-04-23T18:27:22.321Z",
+  "updatedAt": "2026-04-23T18:27:22.321Z"
+}

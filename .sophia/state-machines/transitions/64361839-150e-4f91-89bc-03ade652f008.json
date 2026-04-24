@@ -1,0 +1,15 @@
+{
+  "label": "Wall Kick",
+  "condition": "jump_pressed",
+  "action": null,
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "sourceStateId": "fb0826b0-be5d-489b-a5a0-7e47c6730962",
+  "targetStateId": "4c95efc5-b5ec-4ea7-bc98-43ee8c92bc5f",
+  "id": "64361839-150e-4f91-89bc-03ade652f008",
+  "createdAt": "2026-04-23T21:44:33.591Z",
+  "updatedAt": "2026-04-23T21:44:33.591Z"
+}

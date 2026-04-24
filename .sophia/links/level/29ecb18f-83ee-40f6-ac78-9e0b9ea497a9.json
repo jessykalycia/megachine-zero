@@ -1,0 +1,38 @@
+[
+  {
+    "id": "56930fac-a7c0-43f9-855d-fa8bfab43d81",
+    "sourceType": "level",
+    "sourceId": "29ecb18f-83ee-40f6-ac78-9e0b9ea497a9",
+    "targetType": "spritesheet",
+    "targetId": "c5116113-ece8-451f-a4e7-8a995c1d1ccd",
+    "relationship": "uses-tileset",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:46:41.017Z",
+    "updatedAt": "2026-04-23T21:46:41.017Z"
+  },
+  {
+    "id": "4f414141-2d93-41f6-a531-0fd3674fbbdc",
+    "sourceType": "level",
+    "sourceId": "29ecb18f-83ee-40f6-ac78-9e0b9ea497a9",
+    "targetType": "ost",
+    "targetId": "0b88d06f-fbbf-4139-8d7c-0343177a4bfc",
+    "relationship": "has-music",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:46:41.025Z",
+    "updatedAt": "2026-04-23T21:46:41.025Z"
+  },
+  {
+    "id": "3f077388-a454-4b46-9fc3-13482bd66006",
+    "sourceType": "level",
+    "sourceId": "29ecb18f-83ee-40f6-ac78-9e0b9ea497a9",
+    "targetType": "ambience",
+    "targetId": "61a1b79c-1421-43dd-aa5f-cd398600e156",
+    "relationship": "has-ambience",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:46:41.032Z",
+    "updatedAt": "2026-04-23T21:46:41.032Z"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "color": "#757575",
+  "positionX": 1150,
+  "positionY": 300,
+  "isInitial": false,
+  "isFinal": true,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "fd05f448-16b1-4d5d-a9be-e33f876e71d4",
+  "name": "Death",
+  "id": "20abc84b-abc5-472c-80b1-d976cc084368",
+  "createdAt": "2026-04-23T21:42:44.678Z",
+  "updatedAt": "2026-04-23T22:19:58.687Z"
+}

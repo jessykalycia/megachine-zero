@@ -1,0 +1,15 @@
+{
+  "label": "Attack Done",
+  "condition": "attack_done",
+  "action": null,
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+  "sourceStateId": "9a94b610-4723-4bdc-a4d7-a9175fdc4545",
+  "targetStateId": "94116a3b-ad68-446f-b9f5-f2e0044091cf",
+  "id": "105f3700-9d87-47c3-ae77-908bfc994b2d",
+  "createdAt": "2026-04-23T21:44:33.883Z",
+  "updatedAt": "2026-04-23T21:44:33.883Z"
+}

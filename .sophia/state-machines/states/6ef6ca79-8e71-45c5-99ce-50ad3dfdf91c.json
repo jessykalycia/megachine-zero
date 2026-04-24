@@ -1,0 +1,17 @@
+{
+  "color": "#7CB342",
+  "positionX": 800,
+  "positionY": -148,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "name": "Fall",
+  "id": "6ef6ca79-8e71-45c5-99ce-50ad3dfdf91c",
+  "createdAt": "2026-04-23T21:42:44.533Z",
+  "updatedAt": "2026-04-24T01:07:13.215Z"
+}

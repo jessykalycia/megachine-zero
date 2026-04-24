@@ -1,0 +1,14 @@
+[
+  {
+    "id": "0e902017-7d86-40d7-9707-8b665695639f",
+    "sourceType": "spritesheet",
+    "sourceId": "6e34a692-d5cc-4f2f-aa47-9fe3d59a33a2",
+    "targetType": "spritesheet",
+    "targetId": "dcff6889-f1cc-4d4c-b329-2f75d673a19f",
+    "relationship": "has-vfx",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:46:41.048Z",
+    "updatedAt": "2026-04-23T21:46:41.048Z"
+  }
+]

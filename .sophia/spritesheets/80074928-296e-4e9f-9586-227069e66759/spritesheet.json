@@ -1,0 +1,23 @@
+{
+  "description": "Dust kick-up for dash and landing",
+  "filePath": null,
+  "fileName": null,
+  "thumbPath": null,
+  "mimeType": null,
+  "fileSize": null,
+  "width": null,
+  "height": null,
+  "slicingMode": "manual",
+  "grid": null,
+  "defaultPivotPreset": "center",
+  "defaultPivotX": 0.5,
+  "defaultPivotY": 0.5,
+  "pixelsPerUnit": 100,
+  "tags": [],
+  "collisionTypes": [],
+  "sprites": [],
+  "name": "VFX - Dust Puff",
+  "id": "80074928-296e-4e9f-9586-227069e66759",
+  "createdAt": "2026-04-23T18:33:55.928Z",
+  "updatedAt": "2026-04-23T18:33:55.928Z"
+}

@@ -1,0 +1,12 @@
+{
+  "description": "Walks in spawn direction, ignores player. Hit stun gated by 5s cooldown; resumes direction after stun.",
+  "initialStateId": null,
+  "settings": {
+    "snapToGrid": true,
+    "gridSize": 20
+  },
+  "name": "Enemy 1 - Walker FSM",
+  "id": "4d4dad3a-f165-47a9-844d-d1721c2682d6",
+  "createdAt": "2026-04-23T21:42:14.556Z",
+  "updatedAt": "2026-04-23T21:42:14.556Z"
+}

@@ -1,0 +1,17 @@
+{
+  "color": "#E91E63",
+  "positionX": 1400,
+  "positionY": 400,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "name": "Hit",
+  "id": "c2355d1b-9b5c-44d1-a6b8-32e1eab935e1",
+  "createdAt": "2026-04-23T21:42:44.557Z",
+  "updatedAt": "2026-04-23T22:19:58.545Z"
+}

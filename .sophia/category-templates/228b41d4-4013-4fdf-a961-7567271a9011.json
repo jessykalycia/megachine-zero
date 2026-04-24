@@ -1,0 +1,10 @@
+{
+  "name": "Characters",
+  "description": "Player, enemies, bosses",
+  "scopedEntityType": "spritesheet",
+  "icon": "users",
+  "color": "#4A90E2",
+  "id": "228b41d4-4013-4fdf-a961-7567271a9011",
+  "createdAt": "2026-04-23T18:33:54.353Z",
+  "updatedAt": "2026-04-23T18:33:54.353Z"
+}

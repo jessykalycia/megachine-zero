@@ -1,0 +1,17 @@
+{
+  "color": "#7CB342",
+  "positionX": 200,
+  "positionY": 400,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "name": "WallSlide",
+  "id": "fb0826b0-be5d-489b-a5a0-7e47c6730962",
+  "createdAt": "2026-04-23T21:42:44.510Z",
+  "updatedAt": "2026-04-23T22:19:58.518Z"
+}

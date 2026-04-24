@@ -1,0 +1,74 @@
+[
+  {
+    "id": "eff41098-4042-4534-8b17-8e7062ce2f5d",
+    "sourceType": "character",
+    "sourceId": "21e6db3a-800c-4e12-9fa5-9c42adc32565",
+    "targetType": "spritesheet",
+    "targetId": "62cfb7e7-25f9-47a5-824f-d2c4d444e0d0",
+    "relationship": "has-sprite",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.616Z",
+    "updatedAt": "2026-04-23T21:51:09.616Z"
+  },
+  {
+    "id": "54a9cda6-a97f-41db-ab96-cfb42aa72629",
+    "sourceType": "character",
+    "sourceId": "21e6db3a-800c-4e12-9fa5-9c42adc32565",
+    "targetType": "state-machine",
+    "targetId": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+    "relationship": "has-fsm",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.629Z",
+    "updatedAt": "2026-04-23T21:51:09.629Z"
+  },
+  {
+    "id": "aa3a51c9-1ef2-42d3-ac90-cec624f514a5",
+    "sourceType": "character",
+    "sourceId": "21e6db3a-800c-4e12-9fa5-9c42adc32565",
+    "targetType": "sfx",
+    "targetId": "de00cc61-e6b7-4c29-b1b2-5cb4f3883c71",
+    "relationship": "uses-sfx",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.637Z",
+    "updatedAt": "2026-04-23T21:51:09.637Z"
+  },
+  {
+    "id": "0100d998-b7bb-4139-8886-26007a1629f5",
+    "sourceType": "character",
+    "sourceId": "21e6db3a-800c-4e12-9fa5-9c42adc32565",
+    "targetType": "spritesheet",
+    "targetId": "c729fed1-54f0-4885-9232-eac41989e0c9",
+    "relationship": "has-vfx",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.646Z",
+    "updatedAt": "2026-04-23T21:51:09.646Z"
+  },
+  {
+    "id": "7ca6b284-f42a-48fc-9e34-a03e8a9a2510",
+    "sourceType": "character",
+    "sourceId": "21e6db3a-800c-4e12-9fa5-9c42adc32565",
+    "targetType": "spritesheet",
+    "targetId": "6e34a692-d5cc-4f2f-aa47-9fe3d59a33a2",
+    "relationship": "fires",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.655Z",
+    "updatedAt": "2026-04-23T21:51:09.655Z"
+  },
+  {
+    "id": "1263141f-ccf1-481c-a354-c738397b36cc",
+    "sourceType": "character",
+    "sourceId": "21e6db3a-800c-4e12-9fa5-9c42adc32565",
+    "targetType": "ost",
+    "targetId": "8548f2be-b5dc-4fd8-99e7-1238fbf433f1",
+    "relationship": "has-theme",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.663Z",
+    "updatedAt": "2026-04-23T21:51:09.663Z"
+  }
+]

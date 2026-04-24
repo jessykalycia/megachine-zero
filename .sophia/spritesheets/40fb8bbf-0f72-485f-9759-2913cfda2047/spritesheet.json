@@ -1,0 +1,23 @@
+{
+  "description": "Enemy drops — small energy capsule + big energy capsule",
+  "filePath": null,
+  "fileName": null,
+  "thumbPath": null,
+  "mimeType": null,
+  "fileSize": null,
+  "width": null,
+  "height": null,
+  "slicingMode": "manual",
+  "grid": null,
+  "defaultPivotPreset": "center",
+  "defaultPivotX": 0.5,
+  "defaultPivotY": 0.5,
+  "pixelsPerUnit": 100,
+  "tags": [],
+  "collisionTypes": [],
+  "sprites": [],
+  "name": "Pickups",
+  "id": "40fb8bbf-0f72-485f-9759-2913cfda2047",
+  "createdAt": "2026-04-23T21:42:07.059Z",
+  "updatedAt": "2026-04-23T21:42:07.059Z"
+}

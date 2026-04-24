@@ -1,0 +1,31 @@
+{
+  "description": null,
+  "filePath": "assets/spritesheets/9e600c3a-7701-4e5b-8952-870864e47907.png",
+  "fileName": "gameart2d-desert.png",
+  "thumbPath": "assets/spritesheets/thumbs/8f682823-8baa-4243-8c6b-b8b6afdaa036.png",
+  "mimeType": "image/png",
+  "fileSize": 200280,
+  "width": 640,
+  "height": 1024,
+  "slicingMode": "manual",
+  "grid": {
+    "cellWidth": 128,
+    "cellHeight": 128,
+    "marginX": 0,
+    "marginY": 0,
+    "spacingX": 0,
+    "spacingY": 0
+  },
+  "defaultPivotPreset": "center",
+  "defaultPivotX": 0.5,
+  "defaultPivotY": 0.5,
+  "pixelsPerUnit": 100,
+  "tags": [],
+  "collisionTypes": [],
+  "sprites": [],
+  "name": "GameArt 2D Desert",
+  "id": "0acb76ab-d2f6-42cb-9600-9723d849fc63",
+  "createdAt": "2026-04-24T07:50:46.776Z",
+  "updatedAt": "2026-04-24T07:50:47.115Z",
+  "animations": []
+}

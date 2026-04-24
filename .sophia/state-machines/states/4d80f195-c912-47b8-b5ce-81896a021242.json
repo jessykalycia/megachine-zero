@@ -1,0 +1,17 @@
+{
+  "color": "#FFC107",
+  "positionX": 800,
+  "positionY": 400,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+  "name": "Decide",
+  "id": "4d80f195-c912-47b8-b5ce-81896a021242",
+  "createdAt": "2026-04-23T21:42:44.702Z",
+  "updatedAt": "2026-04-23T22:19:58.587Z"
+}

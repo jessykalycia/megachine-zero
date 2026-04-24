@@ -1,0 +1,23 @@
+{
+  "description": "Stage enemy #3",
+  "filePath": null,
+  "fileName": null,
+  "thumbPath": null,
+  "mimeType": null,
+  "fileSize": null,
+  "width": null,
+  "height": null,
+  "slicingMode": "manual",
+  "grid": null,
+  "defaultPivotPreset": "center",
+  "defaultPivotX": 0.5,
+  "defaultPivotY": 0.5,
+  "pixelsPerUnit": 100,
+  "tags": [],
+  "collisionTypes": [],
+  "sprites": [],
+  "name": "Enemy 3",
+  "id": "5a51d367-2191-46a4-806f-62e6a3044c5b",
+  "createdAt": "2026-04-23T18:31:27.319Z",
+  "updatedAt": "2026-04-23T18:31:27.319Z"
+}

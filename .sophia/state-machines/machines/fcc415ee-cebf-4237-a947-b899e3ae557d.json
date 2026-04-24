@@ -1,0 +1,12 @@
+{
+  "description": "Main character (Zero) movement + action state machine. Shoot/charge is an overlay system, not a state.",
+  "initialStateId": null,
+  "settings": {
+    "snapToGrid": true,
+    "gridSize": 20
+  },
+  "name": "Player FSM",
+  "id": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "createdAt": "2026-04-23T21:42:14.551Z",
+  "updatedAt": "2026-04-23T21:42:14.551Z"
+}

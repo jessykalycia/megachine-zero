@@ -1,0 +1,13 @@
+{
+  "id": "f16e88cd-90aa-47be-a710-6caaa6962999",
+  "entityType": "state-machine",
+  "entityId": "45f3b52d-4692-4cc9-981f-d9cdf94988e4",
+  "status": "planned",
+  "effortNext": "unknown",
+  "effortTotal": "unknown",
+  "priority": null,
+  "notes": null,
+  "sortOrder": 0,
+  "createdAt": "2026-04-23T21:46:57.898Z",
+  "updatedAt": "2026-04-23T21:46:57.898Z"
+}

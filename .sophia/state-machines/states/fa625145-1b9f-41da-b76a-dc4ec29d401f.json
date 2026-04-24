@@ -1,0 +1,17 @@
+{
+  "color": "#7CB342",
+  "positionX": 800,
+  "positionY": 120,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "name": "Jump",
+  "id": "fa625145-1b9f-41da-b76a-dc4ec29d401f",
+  "createdAt": "2026-04-23T21:42:44.501Z",
+  "updatedAt": "2026-04-23T22:19:58.501Z"
+}

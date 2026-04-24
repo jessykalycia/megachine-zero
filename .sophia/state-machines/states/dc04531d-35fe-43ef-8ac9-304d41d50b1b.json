@@ -1,0 +1,17 @@
+{
+  "color": "#4A90E2",
+  "positionX": 800,
+  "positionY": 400,
+  "isInitial": true,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "name": "Idle",
+  "id": "dc04531d-35fe-43ef-8ac9-304d41d50b1b",
+  "createdAt": "2026-04-23T21:42:44.485Z",
+  "updatedAt": "2026-04-23T22:19:58.478Z"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Enemy and boss destroy explosion",
+  "filePath": null,
+  "fileName": null,
+  "thumbPath": null,
+  "mimeType": null,
+  "fileSize": null,
+  "width": null,
+  "height": null,
+  "slicingMode": "manual",
+  "grid": null,
+  "defaultPivotPreset": "center",
+  "defaultPivotX": 0.5,
+  "defaultPivotY": 0.5,
+  "pixelsPerUnit": 100,
+  "tags": [],
+  "collisionTypes": [],
+  "sprites": [],
+  "name": "VFX - Explosion",
+  "id": "c729fed1-54f0-4885-9232-eac41989e0c9",
+  "createdAt": "2026-04-23T18:33:55.898Z",
+  "updatedAt": "2026-04-23T18:33:55.898Z"
+}

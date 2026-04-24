@@ -1,0 +1,10 @@
+{
+  "name": "Pickups",
+  "description": "Pickup/drop spritesheets",
+  "scopedEntityType": "spritesheet",
+  "icon": "package",
+  "color": "#F5C242",
+  "id": "b1cd193b-559d-4d0a-821c-4479523fa6d9",
+  "createdAt": "2026-04-23T21:42:08.654Z",
+  "updatedAt": "2026-04-23T21:42:08.654Z"
+}

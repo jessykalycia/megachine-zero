@@ -1,0 +1,23 @@
+{
+  "description": "Stage enemy #1",
+  "filePath": null,
+  "fileName": null,
+  "thumbPath": null,
+  "mimeType": null,
+  "fileSize": null,
+  "width": null,
+  "height": null,
+  "slicingMode": "manual",
+  "grid": null,
+  "defaultPivotPreset": "center",
+  "defaultPivotX": 0.5,
+  "defaultPivotY": 0.5,
+  "pixelsPerUnit": 100,
+  "tags": [],
+  "collisionTypes": [],
+  "sprites": [],
+  "name": "Enemy 1",
+  "id": "84b65303-6880-49df-84d6-3e8235be7c02",
+  "createdAt": "2026-04-23T18:31:27.302Z",
+  "updatedAt": "2026-04-23T18:31:27.302Z"
+}

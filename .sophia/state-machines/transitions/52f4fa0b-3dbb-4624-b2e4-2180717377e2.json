@@ -1,0 +1,15 @@
+{
+  "label": "Resume",
+  "condition": "stun_timer_done",
+  "action": "preserve_direction",
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "4d4dad3a-f165-47a9-844d-d1721c2682d6",
+  "sourceStateId": "9d9e6de7-5519-4d52-8417-539db46b74fd",
+  "targetStateId": "3f6d5c98-c924-4f5c-a6d1-98468493a92b",
+  "id": "52f4fa0b-3dbb-4624-b2e4-2180717377e2",
+  "createdAt": "2026-04-23T21:44:33.670Z",
+  "updatedAt": "2026-04-23T21:44:33.670Z"
+}

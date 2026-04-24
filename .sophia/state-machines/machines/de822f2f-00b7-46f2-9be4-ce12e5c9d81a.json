@@ -1,0 +1,12 @@
+{
+  "description": "Tracks player, repositions, attacks (melee/ranged/special) via a central Decide state. No hit stun — damage applies but behavior uninterrupted.",
+  "initialStateId": null,
+  "settings": {
+    "snapToGrid": true,
+    "gridSize": 20
+  },
+  "name": "Boss FSM",
+  "id": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+  "createdAt": "2026-04-23T21:42:14.576Z",
+  "updatedAt": "2026-04-23T21:42:14.576Z"
+}

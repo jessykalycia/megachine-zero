@@ -1,0 +1,15 @@
+{
+  "label": "Ranged Attack",
+  "condition": "mid_range",
+  "action": null,
+  "priority": 2,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+  "sourceStateId": "4d80f195-c912-47b8-b5ce-81896a021242",
+  "targetStateId": "395737e0-c847-4a6a-b08e-097606a6898d",
+  "id": "65757e08-c1d3-49dd-8d3e-4feb36d9214a",
+  "createdAt": "2026-04-23T21:44:33.856Z",
+  "updatedAt": "2026-04-23T21:44:33.856Z"
+}

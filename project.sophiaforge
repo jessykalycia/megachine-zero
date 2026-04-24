@@ -1,0 +1,37 @@
+{
+  "id": "52c99705-cbdb-45df-a7c7-2d99bbf03c89",
+  "name": "Megachine Zero",
+  "description": "A Sophia Forge test project for Gamejam.js",
+  "members": [
+    {
+      "identityId": "427c3e3d-1111-416c-a223-dfd9c120c3ca",
+      "displayName": "Owner",
+      "cloudUserId": null,
+      "role": "owner"
+    }
+  ],
+  "studioName": "Sophia Foundry",
+  "studioDescription": null,
+  "logoPath": null,
+  "logoThumbPath": null,
+  "genrePrimary": "platformer",
+  "genreSecondary": null,
+  "platforms": [
+    "pc"
+  ],
+  "perspective": "side_scroller",
+  "rating": "esrb_e",
+  "rootLanguage": "en",
+  "targetLocales": [],
+  "unitSystem": "metric",
+  "codeFolders": [],
+  "projectType": "game",
+  "engine": null,
+  "language": "JavaScript",
+  "secondaryLanguage": null,
+  "paradigm": null,
+  "framework": "Phaser",
+  "createdAt": "2026-04-23T17:52:37.710Z",
+  "updatedAt": "2026-04-23T17:52:37.710Z",
+  "assetFolderPath": "public/assets"
+}

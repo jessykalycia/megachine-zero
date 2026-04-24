@@ -1,0 +1,15 @@
+{
+  "label": "Die",
+  "condition": "hp <= 0",
+  "action": null,
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "45f3b52d-4692-4cc9-981f-d9cdf94988e4",
+  "sourceStateId": "3f595225-c370-40dd-bf0a-b440928da4e3",
+  "targetStateId": "5b90e256-995b-4f01-8bcc-8b678b6d59fd",
+  "id": "4be98b02-fee9-481f-8a72-d7744993038b",
+  "createdAt": "2026-04-23T21:44:33.731Z",
+  "updatedAt": "2026-04-23T21:44:33.731Z"
+}

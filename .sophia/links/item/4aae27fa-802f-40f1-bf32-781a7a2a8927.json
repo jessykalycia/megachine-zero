@@ -1,0 +1,14 @@
+[
+  {
+    "id": "995dc9f1-3d5e-4a98-bbc0-1730954894ba",
+    "sourceType": "item",
+    "sourceId": "4aae27fa-802f-40f1-bf32-781a7a2a8927",
+    "targetType": "spritesheet",
+    "targetId": "40fb8bbf-0f72-485f-9759-2913cfda2047",
+    "relationship": "has-sprite",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:46:41.043Z",
+    "updatedAt": "2026-04-23T21:46:41.043Z"
+  }
+]

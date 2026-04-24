@@ -1,0 +1,23 @@
+{
+  "description": "Muzzle flash + bullet-on-surface hit spark",
+  "filePath": null,
+  "fileName": null,
+  "thumbPath": null,
+  "mimeType": null,
+  "fileSize": null,
+  "width": null,
+  "height": null,
+  "slicingMode": "manual",
+  "grid": null,
+  "defaultPivotPreset": "center",
+  "defaultPivotX": 0.5,
+  "defaultPivotY": 0.5,
+  "pixelsPerUnit": 100,
+  "tags": [],
+  "collisionTypes": [],
+  "sprites": [],
+  "name": "VFX - Shot Impact",
+  "id": "dcff6889-f1cc-4d4c-b329-2f75d673a19f",
+  "createdAt": "2026-04-23T18:33:55.889Z",
+  "updatedAt": "2026-04-23T18:33:55.889Z"
+}

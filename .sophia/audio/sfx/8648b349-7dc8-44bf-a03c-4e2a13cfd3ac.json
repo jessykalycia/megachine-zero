@@ -1,0 +1,9 @@
+{
+  "order": 2,
+  "name": "Player Hit",
+  "description": "Player takes damage",
+  "sfxGroupId": "5da2d1e0-3785-4351-ba42-5f278a3bf740",
+  "id": "8648b349-7dc8-44bf-a03c-4e2a13cfd3ac",
+  "createdAt": "2026-04-23T18:27:38.709Z",
+  "updatedAt": "2026-04-23T18:27:38.709Z"
+}

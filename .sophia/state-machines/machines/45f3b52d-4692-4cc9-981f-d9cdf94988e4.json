@@ -1,0 +1,12 @@
+{
+  "description": "Stationary, fires in any direction on a timer (not player-aware). Hit stun gated by 5s cooldown.",
+  "initialStateId": null,
+  "settings": {
+    "snapToGrid": true,
+    "gridSize": 20
+  },
+  "name": "Enemy 2 - Spray Shooter FSM",
+  "id": "45f3b52d-4692-4cc9-981f-d9cdf94988e4",
+  "createdAt": "2026-04-23T21:42:14.560Z",
+  "updatedAt": "2026-04-23T21:42:14.560Z"
+}

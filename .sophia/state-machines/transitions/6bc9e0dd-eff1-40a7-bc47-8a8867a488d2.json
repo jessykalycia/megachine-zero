@@ -1,0 +1,15 @@
+{
+  "label": "Intro Done",
+  "condition": "intro_timer_done",
+  "action": null,
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+  "sourceStateId": "7bf5c655-3140-45fc-a41a-c62ecb1cd424",
+  "targetStateId": "94116a3b-ad68-446f-b9f5-f2e0044091cf",
+  "id": "6bc9e0dd-eff1-40a7-bc47-8a8867a488d2",
+  "createdAt": "2026-04-23T21:44:33.822Z",
+  "updatedAt": "2026-04-23T21:44:33.822Z"
+}

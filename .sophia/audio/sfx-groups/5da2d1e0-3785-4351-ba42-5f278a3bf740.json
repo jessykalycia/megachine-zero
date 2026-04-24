@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "combat"
+  ],
+  "name": "Combat",
+  "description": "Hit and death feedback for player and enemies",
+  "id": "5da2d1e0-3785-4351-ba42-5f278a3bf740",
+  "createdAt": "2026-04-23T18:27:22.324Z",
+  "updatedAt": "2026-04-23T18:27:22.324Z"
+}

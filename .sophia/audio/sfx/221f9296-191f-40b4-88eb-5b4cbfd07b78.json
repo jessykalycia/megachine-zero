@@ -1,0 +1,9 @@
+{
+  "order": 3,
+  "name": "Wall Kick",
+  "description": "Player kicks off a wall to jump again",
+  "sfxGroupId": "fe70655f-86c2-46dc-890d-63c851d370a3",
+  "id": "221f9296-191f-40b4-88eb-5b4cbfd07b78",
+  "createdAt": "2026-04-23T18:29:30.519Z",
+  "updatedAt": "2026-04-23T18:29:30.519Z"
+}

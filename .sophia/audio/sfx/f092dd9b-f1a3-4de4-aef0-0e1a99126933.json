@@ -1,0 +1,9 @@
+{
+  "order": 2,
+  "name": "Wall Slide",
+  "description": "Player sliding down a wall",
+  "sfxGroupId": "fe70655f-86c2-46dc-890d-63c851d370a3",
+  "id": "f092dd9b-f1a3-4de4-aef0-0e1a99126933",
+  "createdAt": "2026-04-23T18:27:38.690Z",
+  "updatedAt": "2026-04-23T18:27:38.690Z"
+}

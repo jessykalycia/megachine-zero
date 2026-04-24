@@ -1,0 +1,10 @@
+{
+  "name": "Enemy",
+  "description": "Hostile character (enemies and bosses)",
+  "scopedEntityType": "character",
+  "icon": "skull",
+  "color": "#E91E63",
+  "id": "5221fc7e-45bc-4ae4-bd6d-df69958cc029",
+  "createdAt": "2026-04-23T21:50:03.018Z",
+  "updatedAt": "2026-04-23T21:50:03.019Z"
+}

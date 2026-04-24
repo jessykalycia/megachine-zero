@@ -1,0 +1,15 @@
+{
+  "label": "Hit Stun",
+  "condition": "damage_taken && stun_cooldown_elapsed",
+  "action": null,
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "4d4dad3a-f165-47a9-844d-d1721c2682d6",
+  "sourceStateId": "3f6d5c98-c924-4f5c-a6d1-98468493a92b",
+  "targetStateId": "9d9e6de7-5519-4d52-8417-539db46b74fd",
+  "id": "978b86b7-6a93-431d-82e7-fd532974612b",
+  "createdAt": "2026-04-23T21:44:33.664Z",
+  "updatedAt": "2026-04-23T21:44:33.664Z"
+}

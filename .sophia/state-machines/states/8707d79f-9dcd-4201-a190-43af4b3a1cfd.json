@@ -1,0 +1,17 @@
+{
+  "color": "#FF6B35",
+  "positionX": 450,
+  "positionY": 300,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "fd05f448-16b1-4d5d-a9be-e33f876e71d4",
+  "name": "Shoot",
+  "id": "8707d79f-9dcd-4201-a190-43af4b3a1cfd",
+  "createdAt": "2026-04-23T21:42:44.663Z",
+  "updatedAt": "2026-04-23T22:19:58.673Z"
+}

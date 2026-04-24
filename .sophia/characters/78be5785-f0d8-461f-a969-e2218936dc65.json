@@ -1,0 +1,7 @@
+{
+  "name": "Sentry",
+  "description": "Enemy 3 — fixed position, detects player and fires aimed shots. Stunlockable every 5s.",
+  "id": "78be5785-f0d8-461f-a969-e2218936dc65",
+  "createdAt": "2026-04-23T21:50:01.503Z",
+  "updatedAt": "2026-04-23T21:50:01.504Z"
+}

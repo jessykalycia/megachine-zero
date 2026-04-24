@@ -1,0 +1,17 @@
+{
+  "color": "#FF6B35",
+  "positionX": 1150,
+  "positionY": 400,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+  "name": "AttackRanged",
+  "id": "395737e0-c847-4a6a-b08e-097606a6898d",
+  "createdAt": "2026-04-23T21:42:44.730Z",
+  "updatedAt": "2026-04-23T22:19:58.612Z"
+}

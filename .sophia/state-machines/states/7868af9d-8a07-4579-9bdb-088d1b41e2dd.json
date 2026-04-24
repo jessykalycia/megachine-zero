@@ -1,0 +1,17 @@
+{
+  "color": "#FF6B35",
+  "positionX": 800,
+  "positionY": 680,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "name": "Dash",
+  "id": "7868af9d-8a07-4579-9bdb-088d1b41e2dd",
+  "createdAt": "2026-04-23T21:42:44.547Z",
+  "updatedAt": "2026-04-23T22:19:58.534Z"
+}

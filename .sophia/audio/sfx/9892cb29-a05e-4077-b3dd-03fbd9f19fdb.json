@@ -1,0 +1,9 @@
+{
+  "order": 0,
+  "name": "Jump",
+  "description": "Player jump",
+  "sfxGroupId": "fe70655f-86c2-46dc-890d-63c851d370a3",
+  "id": "9892cb29-a05e-4077-b3dd-03fbd9f19fdb",
+  "createdAt": "2026-04-23T18:27:38.672Z",
+  "updatedAt": "2026-04-23T18:27:38.672Z"
+}

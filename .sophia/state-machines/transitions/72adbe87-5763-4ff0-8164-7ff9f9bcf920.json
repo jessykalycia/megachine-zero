@@ -1,0 +1,15 @@
+{
+  "label": "Fire Timer",
+  "condition": "shoot_timer_elapsed",
+  "action": null,
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "45f3b52d-4692-4cc9-981f-d9cdf94988e4",
+  "sourceStateId": "3f595225-c370-40dd-bf0a-b440928da4e3",
+  "targetStateId": "deaa49b6-7ae7-4fb2-9cae-1cfe50db6fa2",
+  "id": "72adbe87-5763-4ff0-8164-7ff9f9bcf920",
+  "createdAt": "2026-04-23T21:44:33.693Z",
+  "updatedAt": "2026-04-23T21:44:33.693Z"
+}

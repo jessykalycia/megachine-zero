@@ -1,0 +1,9 @@
+{
+  "order": 3,
+  "name": "Charging Loop",
+  "description": "Looping hum while buster is charging, between base and fully charged",
+  "sfxGroupId": "ee89c762-f394-4ba7-bddc-48755239fe4e",
+  "id": "44ada165-02f7-4108-afc2-66cb069ce688",
+  "createdAt": "2026-04-23T18:27:38.666Z",
+  "updatedAt": "2026-04-23T18:27:38.666Z"
+}

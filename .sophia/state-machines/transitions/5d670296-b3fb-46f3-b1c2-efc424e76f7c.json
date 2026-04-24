@@ -1,0 +1,15 @@
+{
+  "label": "Grab Wall",
+  "condition": "touching_wall && input_toward_wall",
+  "action": null,
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "sourceStateId": "6ef6ca79-8e71-45c5-99ce-50ad3dfdf91c",
+  "targetStateId": "fb0826b0-be5d-489b-a5a0-7e47c6730962",
+  "id": "5d670296-b3fb-46f3-b1c2-efc424e76f7c",
+  "createdAt": "2026-04-23T21:44:33.585Z",
+  "updatedAt": "2026-04-23T21:44:33.585Z"
+}

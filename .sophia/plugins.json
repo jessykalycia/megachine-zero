@@ -1,0 +1,23 @@
+{
+  "enabled": [
+    "mcp-server",
+    "characters",
+    "items",
+    "game-systems",
+    "data-tables",
+    "state-machines",
+    "category-templates",
+    "illustrations",
+    "fonts",
+    "color-palettes",
+    "spritesheets",
+    "audio-ost",
+    "audio-sfx",
+    "audio-ambience",
+    "project-tracking",
+    "bugs",
+    "notes",
+    "levels"
+  ],
+  "config": {}
+}

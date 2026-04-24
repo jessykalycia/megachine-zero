@@ -1,0 +1,7 @@
+{
+  "name": "Walker",
+  "description": "Enemy 1 — walks in spawn direction, ignores player. Stunlockable every 5s.",
+  "id": "ee18e17d-9e9c-4f01-877c-e4d81777cd58",
+  "createdAt": "2026-04-23T21:50:01.490Z",
+  "updatedAt": "2026-04-23T21:50:01.490Z"
+}

@@ -1,0 +1,17 @@
+{
+  "color": "#E91E63",
+  "positionX": 1150,
+  "positionY": 680,
+  "isInitial": false,
+  "isFinal": false,
+  "entryAction": null,
+  "exitAction": null,
+  "data": {},
+  "parentStateId": null,
+  "order": 0,
+  "machineId": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+  "name": "AttackSpecial",
+  "id": "f7e4986d-c872-4e03-8ecc-dc9f7466f83a",
+  "createdAt": "2026-04-23T21:42:44.737Z",
+  "updatedAt": "2026-04-23T22:19:58.620Z"
+}

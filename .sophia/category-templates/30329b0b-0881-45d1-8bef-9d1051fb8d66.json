@@ -1,0 +1,10 @@
+{
+  "name": "Levels",
+  "description": "Tilesets and level spritesheets",
+  "scopedEntityType": "spritesheet",
+  "icon": "map",
+  "color": "#7CB342",
+  "id": "30329b0b-0881-45d1-8bef-9d1051fb8d66",
+  "createdAt": "2026-04-23T18:33:54.358Z",
+  "updatedAt": "2026-04-23T18:33:54.358Z"
+}

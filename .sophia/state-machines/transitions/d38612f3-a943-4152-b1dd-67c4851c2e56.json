@@ -1,0 +1,15 @@
+{
+  "label": "Peak",
+  "condition": "velocity_y >= 0",
+  "action": null,
+  "priority": 0,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+  "sourceStateId": "fa625145-1b9f-41da-b76a-dc4ec29d401f",
+  "targetStateId": "6ef6ca79-8e71-45c5-99ce-50ad3dfdf91c",
+  "id": "d38612f3-a943-4152-b1dd-67c4851c2e56",
+  "createdAt": "2026-04-23T21:44:33.563Z",
+  "updatedAt": "2026-04-23T21:44:33.563Z"
+}

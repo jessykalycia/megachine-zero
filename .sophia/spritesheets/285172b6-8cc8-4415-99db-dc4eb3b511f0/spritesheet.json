@@ -1,0 +1,23 @@
+{
+  "description": "Buster charging glow/particles around the player",
+  "filePath": null,
+  "fileName": null,
+  "thumbPath": null,
+  "mimeType": null,
+  "fileSize": null,
+  "width": null,
+  "height": null,
+  "slicingMode": "manual",
+  "grid": null,
+  "defaultPivotPreset": "center",
+  "defaultPivotX": 0.5,
+  "defaultPivotY": 0.5,
+  "pixelsPerUnit": 100,
+  "tags": [],
+  "collisionTypes": [],
+  "sprites": [],
+  "name": "VFX - Charge Aura",
+  "id": "285172b6-8cc8-4415-99db-dc4eb3b511f0",
+  "createdAt": "2026-04-23T18:33:55.912Z",
+  "updatedAt": "2026-04-23T18:33:55.912Z"
+}

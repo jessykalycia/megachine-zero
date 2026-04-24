@@ -1,0 +1,9 @@
+{
+  "order": 1,
+  "name": "Enemy Destroy",
+  "description": "Enemy defeated / explodes",
+  "sfxGroupId": "5da2d1e0-3785-4351-ba42-5f278a3bf740",
+  "id": "de00cc61-e6b7-4c29-b1b2-5cb4f3883c71",
+  "createdAt": "2026-04-23T18:27:38.703Z",
+  "updatedAt": "2026-04-23T18:27:38.703Z"
+}

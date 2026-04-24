@@ -1,0 +1,15 @@
+{
+  "label": "Special!",
+  "condition": "special_cooldown_ready",
+  "action": null,
+  "priority": 4,
+  "order": 0,
+  "sourceHandle": null,
+  "targetHandle": null,
+  "machineId": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+  "sourceStateId": "4d80f195-c912-47b8-b5ce-81896a021242",
+  "targetStateId": "f7e4986d-c872-4e03-8ecc-dc9f7466f83a",
+  "id": "cfbb0dd6-e183-401a-90bf-95778357fe7f",
+  "createdAt": "2026-04-23T21:44:33.865Z",
+  "updatedAt": "2026-04-23T21:44:33.865Z"
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "entityType": "level",
+    "entityId": "29ecb18f-83ee-40f6-ac78-9e0b9ea497a9",
+    "sortOrder": 0
+  },
+  {
+    "entityType": "character",
+    "entityId": "378ce110-ecc8-487e-8cb9-ead8d1e4d7df",
+    "sortOrder": 1
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "a7340009-a22a-4113-bb49-2db72e2eac8d",
+    "sortOrder": 2
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "84b65303-6880-49df-84d6-3e8235be7c02",
+    "sortOrder": 3
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "49834d1f-123e-4443-aab2-87e43cf3be53",
+    "sortOrder": 4
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "5a51d367-2191-46a4-806f-62e6a3044c5b",
+    "sortOrder": 5
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "62cfb7e7-25f9-47a5-824f-d2c4d444e0d0",
+    "sortOrder": 6
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "c5116113-ece8-451f-a4e7-8a995c1d1ccd",
+    "sortOrder": 7
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "dcff6889-f1cc-4d4c-b329-2f75d673a19f",
+    "sortOrder": 8
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "c729fed1-54f0-4885-9232-eac41989e0c9",
+    "sortOrder": 9
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "285172b6-8cc8-4415-99db-dc4eb3b511f0",
+    "sortOrder": 10
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "80074928-296e-4e9f-9586-227069e66759",
+    "sortOrder": 11
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "40fb8bbf-0f72-485f-9759-2913cfda2047",
+    "sortOrder": 12
+  },
+  {
+    "entityType": "spritesheet",
+    "entityId": "6e34a692-d5cc-4f2f-aa47-9fe3d59a33a2",
+    "sortOrder": 13
+  },
+  {
+    "entityType": "font",
+    "entityId": "cac76a2a-43cc-4fd3-8379-6ec3f5f97138",
+    "sortOrder": 14
+  },
+  {
+    "entityType": "item",
+    "entityId": "88fbbe26-b1da-4906-8198-15c1227ce179",
+    "sortOrder": 15
+  },
+  {
+    "entityType": "item",
+    "entityId": "4aae27fa-802f-40f1-bf32-781a7a2a8927",
+    "sortOrder": 16
+  },
+  {
+    "entityType": "state-machine",
+    "entityId": "fcc415ee-cebf-4237-a947-b899e3ae557d",
+    "sortOrder": 17
+  },
+  {
+    "entityType": "state-machine",
+    "entityId": "4d4dad3a-f165-47a9-844d-d1721c2682d6",
+    "sortOrder": 18
+  },
+  {
+    "entityType": "state-machine",
+    "entityId": "45f3b52d-4692-4cc9-981f-d9cdf94988e4",
+    "sortOrder": 19
+  },
+  {
+    "entityType": "state-machine",
+    "entityId": "fd05f448-16b1-4d5d-a9be-e33f876e71d4",
+    "sortOrder": 20
+  },
+  {
+    "entityType": "state-machine",
+    "entityId": "de822f2f-00b7-46f2-9be4-ce12e5c9d81a",
+    "sortOrder": 21
+  },
+  {
+    "entityType": "sfx-group",
+    "entityId": "ee89c762-f394-4ba7-bddc-48755239fe4e",
+    "sortOrder": 22
+  },
+  {
+    "entityType": "sfx-group",
+    "entityId": "fe70655f-86c2-46dc-890d-63c851d370a3",
+    "sortOrder": 23
+  },
+  {
+    "entityType": "sfx-group",
+    "entityId": "5da2d1e0-3785-4351-ba42-5f278a3bf740",
+    "sortOrder": 24
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "944c4871-e09f-4f72-a445-21f40abe420a",
+    "sortOrder": 25
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "aadeb322-d371-46ac-ad5a-451737f5a55c",
+    "sortOrder": 26
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "5b7747c4-4d17-4107-bab9-98c78fccfc07",
+    "sortOrder": 27
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "44ada165-02f7-4108-afc2-66cb069ce688",
+    "sortOrder": 28
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "9892cb29-a05e-4077-b3dd-03fbd9f19fdb",
+    "sortOrder": 29
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "4658fe9b-9bf3-4ba3-a520-5f0ac962ebbc",
+    "sortOrder": 30
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "f092dd9b-f1a3-4de4-aef0-0e1a99126933",
+    "sortOrder": 31
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "221f9296-191f-40b4-88eb-5b4cbfd07b78",
+    "sortOrder": 32
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "8ed219d8-1fe9-4dbf-8fe2-3fee08e556dc",
+    "sortOrder": 33
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "de00cc61-e6b7-4c29-b1b2-5cb4f3883c71",
+    "sortOrder": 34
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "8648b349-7dc8-44bf-a03c-4e2a13cfd3ac",
+    "sortOrder": 35
+  },
+  {
+    "entityType": "sfx",
+    "entityId": "34ea6eb0-d777-4f37-a62f-90f4624d0f2d",
+    "sortOrder": 36
+  },
+  {
+    "entityType": "ost",
+    "entityId": "3b27fc69-7f85-452f-8407-9a4fdd25eb2c",
+    "sortOrder": 37
+  },
+  {
+    "entityType": "ost",
+    "entityId": "0b88d06f-fbbf-4139-8d7c-0343177a4bfc",
+    "sortOrder": 38
+  },
+  {
+    "entityType": "ost",
+    "entityId": "8548f2be-b5dc-4fd8-99e7-1238fbf433f1",
+    "sortOrder": 39
+  },
+  {
+    "entityType": "ambience",
+    "entityId": "61a1b79c-1421-43dd-aa5f-cd398600e156",
+    "sortOrder": 40
+  },
+  {
+    "entityType": "character",
+    "entityId": "ee18e17d-9e9c-4f01-877c-e4d81777cd58",
+    "sortOrder": 41
+  },
+  {
+    "entityType": "character",
+    "entityId": "1a87e02d-fe32-4554-b798-67f9ffb4a8ea",
+    "sortOrder": 42
+  },
+  {
+    "entityType": "character",
+    "entityId": "78be5785-f0d8-461f-a969-e2218936dc65",
+    "sortOrder": 43
+  },
+  {
+    "entityType": "character",
+    "entityId": "21e6db3a-800c-4e12-9fa5-9c42adc32565",
+    "sortOrder": 44
+  }
+]

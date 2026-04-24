@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2b26829d-0c61-49cf-bed1-fec6c7988e5e",
+    "sourceType": "character",
+    "sourceId": "78be5785-f0d8-461f-a969-e2218936dc65",
+    "targetType": "spritesheet",
+    "targetId": "5a51d367-2191-46a4-806f-62e6a3044c5b",
+    "relationship": "has-sprite",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.554Z",
+    "updatedAt": "2026-04-23T21:51:09.554Z"
+  },
+  {
+    "id": "e75446f5-e0dd-44b2-8ff2-9440d7f34cf8",
+    "sourceType": "character",
+    "sourceId": "78be5785-f0d8-461f-a969-e2218936dc65",
+    "targetType": "state-machine",
+    "targetId": "fd05f448-16b1-4d5d-a9be-e33f876e71d4",
+    "relationship": "has-fsm",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.568Z",
+    "updatedAt": "2026-04-23T21:51:09.568Z"
+  },
+  {
+    "id": "ce1257b6-4605-45c1-b234-dca93c0f0504",
+    "sourceType": "character",
+    "sourceId": "78be5785-f0d8-461f-a969-e2218936dc65",
+    "targetType": "sfx",
+    "targetId": "8ed219d8-1fe9-4dbf-8fe2-3fee08e556dc",
+    "relationship": "uses-sfx",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.580Z",
+    "updatedAt": "2026-04-23T21:51:09.580Z"
+  },
+  {
+    "id": "dc3917d3-9cc8-4a26-8eab-fdb2c94b3cdf",
+    "sourceType": "character",
+    "sourceId": "78be5785-f0d8-461f-a969-e2218936dc65",
+    "targetType": "sfx",
+    "targetId": "de00cc61-e6b7-4c29-b1b2-5cb4f3883c71",
+    "relationship": "uses-sfx",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.591Z",
+    "updatedAt": "2026-04-23T21:51:09.591Z"
+  },
+  {
+    "id": "30c6a66d-cd96-47fd-a1ba-6e5e5daa8fab",
+    "sourceType": "character",
+    "sourceId": "78be5785-f0d8-461f-a969-e2218936dc65",
+    "targetType": "spritesheet",
+    "targetId": "c729fed1-54f0-4885-9232-eac41989e0c9",
+    "relationship": "has-vfx",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.601Z",
+    "updatedAt": "2026-04-23T21:51:09.601Z"
+  },
+  {
+    "id": "b2bf75a0-b028-4d37-a2a9-d0cb63612e94",
+    "sourceType": "character",
+    "sourceId": "78be5785-f0d8-461f-a969-e2218936dc65",
+    "targetType": "spritesheet",
+    "targetId": "6e34a692-d5cc-4f2f-aa47-9fe3d59a33a2",
+    "relationship": "fires",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-23T21:51:09.610Z",
+    "updatedAt": "2026-04-23T21:51:09.610Z"
+  }
+]

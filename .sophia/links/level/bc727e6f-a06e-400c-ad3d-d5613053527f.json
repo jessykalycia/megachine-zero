@@ -1,0 +1,14 @@
+[
+  {
+    "id": "4951428d-7510-4abe-b64b-6393620a1f63",
+    "sourceType": "level",
+    "sourceId": "bc727e6f-a06e-400c-ad3d-d5613053527f",
+    "targetType": "spritesheet",
+    "targetId": "0acb76ab-d2f6-42cb-9600-9723d849fc63",
+    "relationship": "uses-spritesheet",
+    "label": null,
+    "condition": null,
+    "createdAt": "2026-04-24T07:50:47.121Z",
+    "updatedAt": "2026-04-24T07:50:47.121Z"
+  }
+]

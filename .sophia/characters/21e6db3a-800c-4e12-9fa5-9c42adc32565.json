@@ -1,0 +1,7 @@
+{
+  "name": "Boss",
+  "description": "Stage boss — tracks player, repositions, attacks (melee/ranged/special). No hit stun.",
+  "id": "21e6db3a-800c-4e12-9fa5-9c42adc32565",
+  "createdAt": "2026-04-23T21:50:01.511Z",
+  "updatedAt": "2026-04-23T21:50:01.511Z"
+}
